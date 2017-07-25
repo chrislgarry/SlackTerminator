@@ -1,5 +1,5 @@
 # SlackTerminator
-Delete all of the messages in a slack channel.
+Delete all of the messages in a Slack channel.
 
 # Dependencies
 
